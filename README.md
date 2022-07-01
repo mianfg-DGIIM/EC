@@ -1,6 +1,6 @@
 [⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
 
-![Repo image](https://repository-images.githubusercontent.com/292301926/539cf180-ed37-11ea-9686-160b02e6e30f)
+![Repo image](https://repository-images.githubusercontent.com/292301926/bdf0eb7b-be17-4e1a-b534-39c1f2abc809)
 
 # `EC` Estructura de Computadores
 
